@@ -1,0 +1,38 @@
+{
+  "name": "Music Bot",
+  "main": "main.js",
+  "author": "https://github.com/YoussefWahba0/",
+  "description": "https://github.com/YoussefWahba0/Music-Bot-v13",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.8.0",
+    "axios": "^0.27.2",
+    "canvas": "^2.9.3",
+    "chalk": "^4.1.2",
+    "croxydb": "^0.0.7",
+    "discord-inviter": "^0.9.1",
+    "discord-player": "^5.2.2",
+    "discord-sync-commands-v14": "^2.0.0",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^13.10.3",
+    "discord.js-util": "^5.0.5",
+    "express": "^4.18.1",
+    "ffmpeg-static": "^4.4.0",
+    "glob": "^8.0.3",
+    "i": "^0.3.7",
+    "moment": "^2.29.3",
+    "mongoose": "^6.3.4",
+    "mpath": "^0.9.0",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8",
+    "pro.db": "^3.0.8",
+    "probot-tax": "^1.0.3",
+    "sift": "^16.0.0",
+    "util": "^0.12.4"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
